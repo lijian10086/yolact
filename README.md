@@ -175,3 +175,7 @@ If you use YOLACT or this code base in your work, please cite
 
 # Contact
 For questions about our paper or code, please contact [Daniel Bolya](mailto:dbolya@ucdavis.edu).
+
+## 李剑备注：
+https://zhuanlan.zhihu.com/p/62652145?utm_source=wechat_timeline&utm_medium=social&utm_oi=589576447262199808&from=timeline
+加州大学提出：实时实例分割算法YOLACT，可达33 FPS/30mAP！现已开源！
